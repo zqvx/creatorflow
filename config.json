@@ -1,0 +1,19 @@
+{
+  "client_key": "awb3pqxwblrvi3u7",
+  "client_secret": "nSr5B9u3sJMLCFdc3E7xVCP87iYBwmot",
+  "sandbox_mode": true,
+  "notify_success": true,
+  "notify_fail": true,
+  "retry_failed": true,
+  "check_interval": 30,
+  "access_token": "act.I7u01W6qYaRuxJs6gw4fO7LnfNhRkF3FoFU1B9Kp0S1YmaGbatk3v8ziiTxH!5908.e1",
+  "refresh_token": "rft.4AkVRztiNH8To5JINPqUJJfVAP5CFZWaBJ1X4cK4s4Xw2Rg0hCBkjIQAze8n!5948.e1",
+  "open_id": "-000d4Kr3a-D-xkpu0ZnwWSqlAIlZDbHO6WG",
+  "token_scope": "video.upload,user.info.basic,video.publish",
+  "access_token_expires_at": 1773518672,
+  "refresh_token_expires_at": 1804968272,
+  "connected_display_name": "",
+  "connected_avatar_url": "",
+  "connected_at": 1773432272,
+  "auth_method": "oauth_login_kit"
+}

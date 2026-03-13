@@ -1,0 +1,59 @@
+2026-03-13 19:54:40 [INFO] ============================================================
+2026-03-13 19:54:40 [INFO] 🎬 TikTok Scheduler iniciado!
+2026-03-13 19:54:40 [INFO] 📁 Queue: C:\Users\feka\Desktop\FabricaDeTikToks\CreatorFlow\queue.json
+2026-03-13 19:54:40 [INFO] ⏱️  Intervalo: 30s
+2026-03-13 19:54:40 [INFO] ============================================================
+2026-03-13 19:57:56 [INFO] ============================================================
+2026-03-13 19:57:56 [INFO] 🎬 TikTok Scheduler iniciado!
+2026-03-13 19:57:56 [INFO] 📁 Queue: C:\Users\feka\Desktop\FabricaDeTikToks\CreatorFlow\queue.json
+2026-03-13 19:57:56 [INFO] ⏱️  Intervalo: 30s
+2026-03-13 19:57:56 [INFO] ============================================================
+2026-03-13 19:58:54 [INFO] A verificar info do criador...
+2026-03-13 19:58:55 [INFO] Privacy options disponíveis: ['FOLLOWER_OF_CREATOR', 'MUTUAL_FOLLOW_FRIENDS', 'SELF_ONLY']
+2026-03-13 19:58:55 [INFO] Criador OK — privacy: SELF_ONLY (auditada: False)
+2026-03-13 19:58:55 [INFO] A inicializar upload: salvação(1).mp4
+2026-03-13 19:58:55 [INFO] Init upload: 92440480 bytes, 2 chunk(s) de 44MB cada (chunk_size=46220240)
+2026-03-13 19:58:55 [INFO] A fazer upload: 2 chunk(s) de 44MB cada
+2026-03-13 19:58:55 [INFO] Chunk 1/2: bytes 0-46220239 (44MB)
+2026-03-13 19:58:58 [INFO]   → HTTP 206
+2026-03-13 19:58:58 [INFO] Chunk 2/2: bytes 46220240-92440479 (44MB)
+2026-03-13 19:59:04 [INFO]   → HTTP 201
+2026-03-13 19:59:04 [INFO] A verificar status do post...
+2026-03-13 19:59:08 [INFO]    Status (1/20): PUBLISH_COMPLETE
+2026-03-13 19:59:08 [INFO] Upload concluído! publish_id: v_pub_file~v2-1.7616831285405927446
+2026-03-13 19:59:08 [INFO] âœ… Post 61c3ea2d publicado! (publish_id: v_pub_file~v2-1.7616831285405927446)
+2026-03-13 19:59:08 [INFO] ðŸ“ Video movido para postados/: salvação(1).mp4
+2026-03-13 20:01:09 [INFO] ============================================================
+2026-03-13 20:01:09 [INFO] 🎬 TikTok Scheduler iniciado!
+2026-03-13 20:01:09 [INFO] 📁 Queue: C:\Users\feka\Desktop\FabricaDeTikToks\CreatorFlow\queue.json
+2026-03-13 20:01:09 [INFO] ⏱️  Intervalo: 30s
+2026-03-13 20:01:09 [INFO] ============================================================
+2026-03-13 20:05:30 [INFO] A verificar info do criador...
+2026-03-13 20:05:31 [INFO] Privacy options disponíveis: ['FOLLOWER_OF_CREATOR', 'MUTUAL_FOLLOW_FRIENDS', 'SELF_ONLY']
+2026-03-13 20:05:31 [INFO] Criador OK — privacy: SELF_ONLY (auditada: False)
+2026-03-13 20:05:31 [INFO] A inicializar upload: salvação(1).mp4
+2026-03-13 20:05:31 [INFO] Init upload: 92440480 bytes, 2 chunk(s) de 44MB cada (chunk_size=46220240)
+2026-03-13 20:05:32 [INFO] A fazer upload: 2 chunk(s) de 44MB cada
+2026-03-13 20:05:32 [INFO] Chunk 1/2: bytes 0-46220239 (44MB)
+2026-03-13 20:05:34 [INFO]   → HTTP 206
+2026-03-13 20:05:34 [INFO] Chunk 2/2: bytes 46220240-92440479 (44MB)
+2026-03-13 20:05:39 [INFO]   → HTTP 201
+2026-03-13 20:05:39 [INFO] A verificar status do post...
+2026-03-13 20:05:42 [INFO]    Status (1/20): PUBLISH_COMPLETE
+2026-03-13 20:05:42 [INFO] Upload concluído! publish_id: v_pub_file~v2-1.7616833456522872854
+2026-03-13 20:05:42 [INFO] âœ… Post 652b0e46 publicado! (publish_id: v_pub_file~v2-1.7616833456522872854)
+2026-03-13 20:05:42 [INFO] ðŸ“ Video movido para postados/: salvação(1)_652b0e46.mp4
+2026-03-13 20:06:52 [INFO] A verificar info do criador...
+2026-03-13 20:06:53 [INFO] Privacy options disponíveis: ['FOLLOWER_OF_CREATOR', 'MUTUAL_FOLLOW_FRIENDS', 'SELF_ONLY']
+2026-03-13 20:06:53 [INFO] Criador OK — privacy: SELF_ONLY (auditada: False)
+2026-03-13 20:06:53 [INFO] A inicializar upload: entronkastar(1).mp4
+2026-03-13 20:06:53 [INFO] Init upload: 47958840 bytes, 1 chunk(s) de 45MB cada (chunk_size=47958840)
+2026-03-13 20:06:53 [INFO] A fazer upload: 1 chunk(s) de 45MB cada
+2026-03-13 20:06:53 [INFO] Chunk 1/1: bytes 0-47958839 (45MB)
+2026-03-13 20:06:57 [INFO]   → HTTP 201
+2026-03-13 20:06:57 [INFO] A verificar status do post...
+2026-03-13 20:07:01 [INFO]    Status (1/20): PUBLISH_COMPLETE
+2026-03-13 20:07:01 [INFO] Upload concluído! publish_id: v_pub_file~v2-1.7616833685158594582
+2026-03-13 20:07:01 [INFO] âœ… Post 7391018a publicado! (publish_id: v_pub_file~v2-1.7616833685158594582)
+2026-03-13 20:07:01 [INFO] ðŸ“ Video movido para postados/: entronkastar(1).mp4
+2026-03-13 20:07:09 [INFO] 📋 Posts na fila: 2
